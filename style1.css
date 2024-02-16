@@ -144,7 +144,7 @@ button:hover {
         display: flex;
         justify-content: center;
         align-items: flex-end;
-        height: 500px;
+        height: 400px;
         background-color: #f4dbf4;
 
     }
@@ -153,7 +153,7 @@ button:hover {
        
         color: white;
         width : 80%;
-        height: 480px;
+        height: 380px;
         background-image: url('openbook.jpg');
         background-size: cover;
         margin-bottom: 10px;
@@ -174,6 +174,7 @@ button:hover {
         display: flex;
         align-items: center;
         justify-content: center;
+        color : white
        
         
     }
@@ -203,8 +204,8 @@ button:hover {
     } */
 
     .box-content{
-        margin-left: 1rem;
-        margin-right: 1rem;
+        /* margin-left: 1rem;
+        margin-right: 1rem; */
     }
     .box-content p{
         color:#007185
@@ -224,13 +225,104 @@ button:hover {
         box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
 
-    .box-img{
+    /* -- uploading images covers--*/
+
+    .box-img.a1{
         height: 280px;
-            background-image: url('http://images.amazon.com/images/P/0195153448.01');
+             background-image: url('ataleof.jpg'); 
             background-size: cover;
             background-position: center;
             margin-bottom: 10px;
     }
+
+    .box-img.a2{
+        height: 280px;
+             background-image: url('harry-potter_ps.jpg'); 
+            background-size: cover;
+            background-position: center;
+            margin-bottom: 10px;
+    }
+
+    .box-img.a3{
+        height: 280px;
+             background-image: url('thehobbit.jpg'); 
+            background-size: cover;
+            background-position: center;
+            margin-bottom: 10px;
+    }
+
+    .box-img.a4{
+        height: 280px;
+             background-image: url('therewerenone.jpg'); 
+            background-size: cover;
+            background-position: center;
+            margin-bottom: 10px;
+    }
+
+    .box-img.a5{
+        height: 280px;
+             background-image: url('davinchi.jpg'); 
+            background-size: cover;
+            background-position: center;
+            margin-bottom: 10px;
+    }
+
+    .box-img.a6{
+        height: 280px;
+             background-image: url('chamberofsec.jpg'); 
+            background-size: cover;
+            background-position: center;
+            margin-bottom: 10px;
+    }
+
+    .box-img.a7{
+        height: 280px;
+             background-image: url('alchemist.jpg'); 
+            background-size: cover;
+            background-position: center;
+            margin-bottom: 10px;
+    }
+    .box-img.a8{
+        height: 280px;
+             background-image: url('prisionersofaz.jpg'); 
+            background-size: cover;
+            background-position: center;
+            margin-bottom: 10px;
+    }
+
+    .box-img.a9{
+        height: 280px;
+             background-image: url('hundredyears.jpg'); 
+            background-size: cover;
+            background-position: center;
+            margin-bottom: 10px;
+    }
+
+    .box-img.a10{
+        height: 280px;
+             background-image: url('tokillamocking.jpg'); 
+            background-size: cover;
+            background-position: center;
+            margin-bottom: 10px;
+    }
+
+    .box-img.a11{
+        height: 280px;
+             background-image: url('warandpeace.jpg'); 
+            background-size: cover;
+            background-position: center;
+            margin-bottom: 10px;
+    }
+
+    .box-img.a12{
+        height: 280px;
+             background-image: url('diaryanne.jpg'); 
+            background-size: cover;
+            background-position: center;
+            margin-bottom: 10px;
+    }
+
+    /*--image cover section ends*/
 
     .bname{
         font-weight: bold;
