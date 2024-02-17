@@ -165,8 +165,7 @@ button:hover {
          
     }
     
-    /* .img2{
-=======
+    
 .main-sec {
   display: flex;
   justify-content: center;
@@ -184,15 +183,7 @@ button:hover {
   margin-bottom: 10px;
 }
 
-/* .img2{
->>>>>>> 05d066523f68c159e17d12c6058a51d985992bbc
-        background-image: url('book_asthetics.jpg');
-        height: 480px;
-        width:  38%;
-        background-size: cover;
-        margin-bottom: 10px;
-    } */
-<<<<<<< HEAD
+
     .foryou{
         /* background-color: ; */
         width: 38%;
@@ -204,7 +195,7 @@ button:hover {
        
         
     }
-=======
+
 .foryou {
   /* background-color: ; */
   width: 38%;
@@ -213,7 +204,7 @@ button:hover {
   align-items: center;
   justify-content: center;
 }
->>>>>>> 05d066523f68c159e17d12c6058a51d985992bbc
+
 
 .book-sec {
   display: flex;
@@ -239,7 +230,6 @@ button:hover {
         margin-bottom: 1rem;
     } */
 
-<<<<<<< HEAD
     .box-content{
         /* margin-left: 1rem;
         margin-right: 1rem; */
@@ -401,7 +391,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-=======
+
 .box-content {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -412,7 +402,7 @@ button:hover {
 .foryou h2 {
   margin-top: 30px;
   height: 100px;
->>>>>>> 05d066523f68c159e17d12c6058a51d985992bbc
+
 }
 
 .box0 {
