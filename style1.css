@@ -144,7 +144,7 @@ button:hover {
   background-color: #0f1111;
 }
 
-<<<<<<< HEAD
+/*head*/
     .main-sec{
         display: flex;
         justify-content: center;
@@ -213,14 +213,6 @@ button:hover {
   background-color: #0f1111;
 }
 
-.box {
-  /* border: 2px solid black; */
-  height: 300px;
-  width: 20%;
-  background-color: white;
-  /* padding: 20px 0px 15px; */
-  margin-top: 1rem;
-}
 
 /* .box-img{
         height: 200px;
@@ -243,13 +235,14 @@ button:hover {
       }
 
     .box0{
-        height: ;
+        height: 350px ;
         width: 200px;
         border: #707070 1px solid;
         color: white;
         padding: 10px;
         background-color: #222f3d;
         box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        margin-bottom: 5px;
     }
 
     /* -- uploading images covers--*/
@@ -488,4 +481,14 @@ footer {
 
 .copyright {
   padding-top: 5px;
+  color: white;
+  margin-left:30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a{
+  text-decoration: none;
+  color :white;
 }
